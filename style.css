@@ -7,4 +7,10 @@ body {
 
 a {
     display: block;
+    text-decoration: none;
 }
+
+a:visited {
+    color: blue;
+}
+

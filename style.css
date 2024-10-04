@@ -18,6 +18,12 @@ a:visited {
     color: blue;
 }
 
+.container {
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+}
+
 div {
     margin-bottom: 50px;
 }
